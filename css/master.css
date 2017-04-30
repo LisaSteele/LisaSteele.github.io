@@ -1,0 +1,25 @@
+html {
+  background-color: purple;
+}
+header {
+  background-color: pink;
+  width: 500px;
+  height: 100px;
+  display:inline-block;
+  font-size: 18px;
+  text-align: center;
+}
+body
+{
+  text-align: center;
+  border: 30px solid black;
+
+}
+.center {
+  background-color: pink;
+  width: 500px;
+  height: 20px;
+  display:inline-block;
+  font-size: 16px;
+  text-align: center
+}
